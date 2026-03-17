@@ -17,7 +17,7 @@ I’m **Radhika Kapoor**, a Software Developer specializing in **Frontend Develo
 
 
 ## Fun Fact
-I hit the gym, strum the guitar, and write code — keeping both my body and mind in shape!
+I hit the gym, strum the guitar, and write code
 
 
 
