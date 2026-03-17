@@ -11,10 +11,8 @@ Nice to meet you!
 
 ## About Me
 I’m **Radhika Kapoor**, a Software Developer specializing in **Frontend Development** with **C++**, bringing **7+ years of experience** 
-
--  Passionate about building clean and user-friendly interfaces  
+ 
 -  Currently exploring **AI/ML** and **expanding my tech stack**
--  Always learning something new in tech  
 
 
 
